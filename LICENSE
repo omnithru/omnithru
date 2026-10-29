@@ -1,0 +1,131 @@
+OMNITHRU FREEWARE LICENSE
+Version 1.0 — DRAFT, to be reviewed before commercial use
+
+Copyright (c) 2026 Francesco Laguardia. All rights reserved.
+
+"Omnithru" (the "Software") means this program, its source code, its
+documentation and its artwork (logo, icons, interface design).
+
+======================================================================
+ENGLISH (this version prevails if the two versions differ)
+======================================================================
+
+1. GRANT OF USE
+   The author grants you a free, non-exclusive, non-transferable licence to
+   install and run the Software, unmodified, on devices you own or control,
+   for any lawful purpose, personal or commercial (for example in your
+   studio, on stage or in teaching). You may make backup copies for your
+   own use. Changing the documented configuration (such as environment
+   variables, or interfaces saved from the Controller Builder) is not a
+   modification of the Software.
+
+2. WHAT YOU MAY NOT DO
+   Without the author's written permission you may not:
+   a) modify, adapt, translate or create derivative works of the Software;
+   b) copy, publish, distribute, sell, rent, lend or sublicense the Software
+   or any part of it;
+   c) offer the Software to third parties as an online or hosted service;
+   d) remove or alter copyright notices or the name and logo of the
+   Software;
+   e) reverse engineer, decompile or disassemble the Software, except to the
+   extent that applicable law allows it despite this restriction;
+   f) use the name "Omnithru" or its logo to identify other products or
+   services.
+
+3. OWNERSHIP
+   The Software is licensed, not sold. The author keeps all copyright and
+   other intellectual property rights. No right is granted except those
+   stated in this licence. Feedback you send may be used by the author
+   freely.
+
+4. THIRD-PARTY COMPONENTS
+   The Software uses components that belong to other people and are
+   licensed under their own terms (see THIRD-PARTY-NOTICES.md). This
+   licence does not change those terms.
+
+5. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE
+   AND NON-INFRINGEMENT. MIDI messages can reach real instruments and
+   equipment: you are responsible for how you use the Software.
+
+6. LIMITATION OF LIABILITY
+   To the maximum extent permitted by law, the author is not liable for any
+   damage arising from the use of, or the inability to use, the Software.
+   Nothing in this licence excludes liability that cannot be excluded by law.
+
+7. TERMINATION
+   This licence ends automatically if you breach it. You must then stop using
+   the Software and delete your copies. Sections 3, 5, 6 and 8 survive.
+
+8. GOVERNING LAW AND JURISDICTION
+   This licence is governed by and construed in accordance with Italian law.
+   If you are acting as a commercial entity or professional user (B2B),
+   any dispute arising out of or in connection with this licence shall be
+   subject to the exclusive jurisdiction of the Courts of Milan, Italy.
+   If you are acting as a consumer (B2C), applicable statutory consumer
+   protection laws regarding mandatory jurisdiction shall apply.
+   If any provision of this licence is found to be invalid or unenforceable,
+   the remaining provisions will remain in full force and effect.
+
+======================================================================
+ITALIANO (traduzione di cortesia)
+======================================================================
+
+1. USO CONCESSO
+   L'autore ti concede una licenza gratuita, non esclusiva e non
+   trasferibile per installare ed eseguire il Software, senza modifiche, sui
+   dispositivi che possiedi o controlli, per qualsiasi scopo lecito,
+   personale o commerciale (per esempio in studio, dal vivo o nella
+   didattica). Puoi fare copie di riserva per uso tuo. Cambiare la
+   configurazione prevista (come le variabili d'ambiente o le interfacce
+   salvate dal Controller Builder) non è una modifica del Software.
+
+2. COSA NON PUOI FARE
+   Senza il permesso scritto dell'autore non puoi:
+   a) modificare, adattare, tradurre il Software o crearne opere derivate;
+   b) copiare, pubblicare, distribuire, vendere, noleggiare, prestare o
+   concedere in sublicenza il Software o sue parti;
+   c) offrire il Software a terzi come servizio online o ospitato;
+   d) rimuovere o alterare gli avvisi di copyright o il nome e il logo del
+   Software;
+   e) fare reverse engineering, decompilare o disassemblare il Software,
+   salvo nei limiti in cui la legge lo consente nonostante questo divieto;
+   f) usare il nome "Omnithru" o il suo logo per altri prodotti o servizi.
+
+3. PROPRIETÀ
+   Il Software è concesso in licenza, non venduto. L'autore mantiene il
+   copyright e ogni altro diritto di proprietà intellettuale. Non è concesso
+   alcun diritto oltre a quelli indicati qui. I suggerimenti che invii
+   possono essere usati liberamente dall'autore.
+
+4. COMPONENTI DI TERZI
+   Il Software usa componenti di altri autori, con le loro licenze (vedi
+   THIRD-PARTY-NOTICES.md). Questa licenza non le modifica.
+
+5. NESSUNA GARANZIA
+   IL SOFTWARE È FORNITO "COSÌ COM'È", SENZA GARANZIE DI ALCUN TIPO,
+   ESPRESSE O IMPLICITE, COMPRESE COMMERCIABILITÀ, IDONEITÀ A UNO SCOPO
+   PARTICOLARE E NON VIOLAZIONE. I messaggi MIDI possono raggiungere
+   strumenti e apparecchiature reali: l'uso del Software è sotto la tua
+   responsabilità.
+
+6. LIMITAZIONE DI RESPONSABILITÀ
+   Nei limiti massimi consentiti dalla legge, l'autore non risponde dei
+   danni derivanti dall'uso o dall'impossibilità di usare il Software. Nulla
+   in questa licenza esclude responsabilità che la legge non permette di
+   escludere.
+
+7. CESSAZIONE
+   La licenza termina automaticamente se la violi. Devi smettere di usare il
+   Software e cancellarne le copie. Gli articoli 3, 5, 6 e 8 restano validi.
+
+8. LEGGE APPLICABILE E FORO COMPETENTE
+   Questa licenza è regolata e interpretata in conformità alla legge italiana.
+   Se utilizzi il Software come professionista o azienda (B2B), qualsiasi
+   controversia derivante da questa licenza o a essa collegata sarà devoluta
+   alla competenza esclusiva del Foro di Milano. Se agisci
+   in qualità di consumatore (B2C), si applicano i fori imperativi previsti
+   dalle norme a tutela dei consumatori.
+   Qualora una clausola di questa licenza sia dichiarata nulla o inefficace,
+   le restanti clausole rimarranno pienamente valide e produttive di effetti.
